@@ -25,6 +25,7 @@
 
 ## Other tools
 - [xScope](http://xscopeapp.com/)
+- [LiveView](http://www.zambetti.com/projects/liveview/)
 
 ## Remote preview
 - [GhostLab](http://vanamco.com/ghostlab/)
