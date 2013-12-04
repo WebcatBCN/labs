@@ -6,10 +6,6 @@
 - [Brackets](http://brackets.io/)
 - [Bookmarklet](https://gist.github.com/jakeonrails/4666256)
 
-## Sublime Text extensions
-- [SublimeGit](https://sublimegit.net/)
-- [Emmet](http://docs.emmet.io/)
-
 ## Source control
 - [Github](https://github.com)
 - [Bitbucket](https://bitbucket.org/)
