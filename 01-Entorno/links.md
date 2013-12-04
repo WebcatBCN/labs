@@ -6,9 +6,9 @@
 - [Brackets](http://brackets.io/)
 - [Bookmarklet](https://gist.github.com/jakeonrails/4666256)
 
-
 ## Sublime Text extensions
 - [SublimeGit](https://sublimegit.net/)
+- [Emmet](http://docs.emmet.io/)
 
 ## Source control
 - [Github](https://github.com)
@@ -19,11 +19,10 @@
 - [Tower](http://www.git-tower.com/)
 - [Github](http://mac.github.com/)
 
-## Copy Paste
+## OSX Tools
 - [ClipMenu](http://www.clipmenu.com/)
 - [Alfred](http://www.alfredapp.com/)
-
-## Other tools
+- [Quicksilver](http://qsapp.com/)
 - [xScope](http://xscopeapp.com/)
 - [LiveView](http://www.zambetti.com/projects/liveview/)
 
@@ -34,9 +33,13 @@
 
 ## Static site generators
 - [Assemble](https://github.com/assemble)
-- [Jekyl](http://jekyllrb.com/)
+- [Jekyll](http://jekyllrb.com/)
 - [Middleman](http://middlemanapp.com/)
 
 ## Terminal customization
 - [Oh my ZSH](https://github.com/robbyrussell/oh-my-zsh)
 - [Agnoster zsh Theme](https://gist.github.com/agnoster/3712874)
+
+## Automatization
+- [Grunt](http://gruntjs.com/)
+- [Yeoman](http://yeoman.io/)
