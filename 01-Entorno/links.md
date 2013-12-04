@@ -36,3 +36,7 @@
 - [Assemble](https://github.com/assemble)
 - [Jekyl](http://jekyllrb.com/)
 - [Middleman](http://middlemanapp.com/)
+
+## Terminal customization
+- [Oh my ZSH](https://github.com/robbyrussell/oh-my-zsh)
+- [Agnoster zsh Theme](https://gist.github.com/agnoster/3712874)
