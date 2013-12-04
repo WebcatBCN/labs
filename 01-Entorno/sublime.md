@@ -1,3 +1,4 @@
+[< Back to Index](../README.md)
 # Sublime Text
 
 ## [Sublime Text download page](http://www.sublimetext.com/)
