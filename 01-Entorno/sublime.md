@@ -1,7 +1,8 @@
 [< Back to Index](../README.md)
 # Sublime Text
 
-## [Sublime Text download page](http://www.sublimetext.com/)
+## Sublime Text official page
+[http://www.sublimetext.com/](http://www.sublimetext.com/)
 
 ## Sublime Text extensions
 - [SublimeGit](https://sublimegit.net/)
